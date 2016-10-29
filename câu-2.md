@@ -9,6 +9,6 @@ nghệ thông tin?
 
 ## Tài liệu tham khảo
 
-[Tiểu luận: Bài thu hoạch PPNCKH - TaiLieu.VN](./tham-khảo/câu-2.md)
+[Tiểu luận: Bài thu hoạch PPNCKH - TaiLieu.VN](./tham-khảo/tiểu-luận-tailieuvn.pdf)
 
-[Giáo trình từ Google](./tham-khảo/ppnckhit.md)
+[Giáo trình từ Google](./tham-khảo/ppnckhit.pdf)
