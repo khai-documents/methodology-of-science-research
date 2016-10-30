@@ -10,7 +10,9 @@ Hãy chỉ ra các điểm mạnh và điểm yếu trong sự phát triển c�
 
 * Tài liệu phong phú, đa dạng, từ khái quát đến chi tiết, từ chất lượng thấp đến chất lượng cao, đủ loại tài liệu khác nhau dành cho các trình độ khác nhau. :books: *(Trừ tài liệu dành cho môn Phương pháp nghiên cứu khoa học dành cho CNTT, Goddamnit)*
 
-* Sinh viên Việt Nam nói chung và Sinh viên CNTT Việt Nam nói riêng năng động, sáng tạo, chịu khó tìm tòi, học hỏi, không ngại khó khăn, gian khổ. *(Ngoại trừ "Deep Web": Deep Web is just a super-stupid and super-bullshit concept. Don't tell me that you're such a super-specialist-hacker when you visit the Deep fucking Web, but rather call yourself idiot. I am serious!)*
+* Sinh viên Việt Nam nói chung và Sinh viên CNTT Việt Nam nói riêng năng động, sáng tạo, chịu khó tìm tòi, học hỏi, không ngại khó khăn, gian khổ. *(Ngoại trừ "Deep Web": Deep Web is just a super-stupid and super-bullshit concept. Don't tell me that you're such a super-specialist-hacker when you visit the Deep fucking Web, but rather call yourself idiot. I am serious! :angry:)*
+
+* Việt Nam là thị trường tiềm năng cho phát triển CNTT.
 
 ### Điểm yếu :-1:
 
@@ -25,3 +27,21 @@ Hãy chỉ ra các điểm mạnh và điểm yếu trong sự phát triển c�
 * Công nghệ thông tin dường như là một ngành lạ lẫm đối với đa số sinh viên Việt Nam, thậm chí còn một số sinh viên đã chọn ngành Công nghệ thông tin không biết Công nghệ thông tin là gì. *(Đơn cử như lớp CNTT K14 - Trường ĐH Tây Nguyên - You know what I'm talking about)*
 
 * Tài liệu tuy phong phú, đa dạng, nhưng đa phần sinh viên không tiếp cận đến (Không biết đến hoặc không có khả năng tiếp cận). Trình độ tiếng Anh kém cũng là một chướng ngại không hề nhỏ. *(Do you know any site rather than stupid Facebook and some Vietnamese-beginner-tutorial-site?)*
+
+* Công nghệ thông tin trong nước phát triển chủ yếu theo lối mòn, ít có dự án lớn, quan trọng, tập trung quá nhiều vào Xây dựng Web và Gia công Phần mềm.
+
+## Thuận lợi và khó khăn khi xác định vấn đề nghiên cứu trong chuyên ngành công nghệ thông tin
+
+## Thuận lợi :smile:
+
+* Công nghệ thông tin là nghành khoa học thực nghiệm, dễ dàng triển khai.
+
+* Thị trường tiềm năng, nhu cầu lớn.
+
+## Khó khăn :cry:
+
+* Hầu hết mọi ứng dụng CNTT đều đã được thế giới triển khai nên khó trong việc tìm đề tài mới.
+
+* Các nghiên cứu có xu hướng làm lại, lặp lại những điều mà thế giới đã làm thay vì tìm tòi cái mới dựa trên ứng dụng những cái sẵn có.
+
+* Kết quả nghiên cứu CNTT thường không được đưa ngay vào áp dụng trong thực tế trong khi tốc độ phát triển của CNTT khá nhanh dẫn đến kết quả nghiên cứu trở nên lỗi thời, suy giảm giá trị sử dụng, thậm trí là trở nên vô dụng, không cần thiết.
