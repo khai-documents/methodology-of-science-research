@@ -19,3 +19,5 @@
 [Lập kế hoạch thực hiện đề tài nghiên cứu khoa học](./tham-khảo/khoahocviet.pdf)
 
 [Giáo trình từ Google](./tham-khảo/ppnckhit.pdf)
+
+[Cần nhìn rõ điểm mạnh, điểm yếu - ven.vn](./tham-khảo/venvn.pdf)
