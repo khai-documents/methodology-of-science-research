@@ -23,3 +23,5 @@
 [Cần nhìn rõ điểm mạnh, điểm yếu - ven.vn](./tham-khảo/venvn.pdf)
 
 [BCTT-117-11.doc](./tham-khảo/bctt11711.pdf)
+
+[Hệ thống các phương pháp nghiên cứu khoa học - Nguyễn Văn Quân](./tham-khảo/nguyenvanquan7826.pdf)
